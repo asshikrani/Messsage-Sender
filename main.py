@@ -1,8 +1,8 @@
-# w_message_sender_gui.py
+# AS message_sender_gui.py
 # Requirements:
 #   pip install pyqt5 pyautogui
 # Packaging (optional):
-#   pyinstaller --onefile --noconsole --name "WMessageSender" --icon=logo.ico w_message_sender_gui.py
+#   pyinstaller --onefile --noconsole --name "name of file" --icon=logo.ico AS_message_sender_gui.py
 
 import sys
 import time
@@ -446,3 +446,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
