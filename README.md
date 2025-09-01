@@ -9,6 +9,12 @@
 
 ---
 
+## Interface 
+
+<img width="1918" height="987" alt="Screenshot 2025-09-02 032008" src="https://github.com/user-attachments/assets/cfe48a57-7c1a-43ae-a54c-b7634d3b072a" />
+
+---
+
 ## ✨ Features
 - 🖥️ **Clean UI** with themed layout and colors  
 - ⚡ **Lightweight executable** – no installation required  
